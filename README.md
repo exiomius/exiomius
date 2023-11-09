@@ -1,4 +1,9 @@
-### Hi there 👋
+### 
+
+I'm a PhD student in Computational Neuroimaging at the University of Nottingham.
+My research is in using generative models to perform normative modelling with brain tractography connectivity patterns.
+
+In my own time, I also enjoy playing around with locally ran Stable Diffusion and large language models. 
 
 <!--
 **exiomius/exiomius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
